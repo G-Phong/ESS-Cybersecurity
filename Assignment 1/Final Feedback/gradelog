@@ -1,0 +1,100 @@
+### Grading of Deliverable1/Gia-Phong Tran - 03736578/1637537320/PartA started at 2021-11-22 01:02:55.364770 ### 
+
+Trying to flash Deliverable1/Gia-Phong Tran - 03736578/1637537320/PartA/build/main.hex ... successful.
+Starting check of output for PartA. Observing LEDs... recorded 3504 samples at 120.000077 SPS.
+Saving blinking pattern as Deliverable1/Gia-Phong Tran - 03736578/1637537320/PartA/scope_0002.png ... Finished.
+Checking for activity on the LEDs...
+Selected LED1 as active, using it for further grading.
+Checking if there is a break of 5s +/- 0.5s... Found: 4.999997, 4.999997  Passed.
+Trying to decode:
+e can morse
+i can morse
+i (-.-)
+NOTE: Unclassifiable high or low times are marked with ^ and _ respectively. If a letter could not be decoded, the dot-dash pattern is printed in paranthesis. Auto-detected dot length: 0.100000s
+Checking auto detected dotlength is within 100ms +/- 10ms...  Passed.
+Checking if any letter could be decoded...  Passed.
+Checking if the whole string could be decoded...  Passed.
+Checking for incorrect high/low times...  Passed.
+### Grading of Deliverable1/Gia-Phong Tran - 03736578/1637537320/PartB started at 2021-11-22 01:07:02.152052 ### 
+
+Trying to flash Deliverable1/Gia-Phong Tran - 03736578/1637537320/PartB/build/main.hex ... successful.
+Starting check of output for PartB.
+Resetting target to take time after boot.
+Observing LEDs... recorded 1200 samples at 120.000077 SPS.
+Saving blinking pattern as Deliverable1/Gia-Phong Tran - 03736578/1637537320/PartB/scope_0010.png ... Finished.
+Checking for no activity on the LEDs...
+  Passed.
+Checking output after pressing Button2 once... recorded 1728 samples at 120.000077 SPS.
+Saving blinking pattern as Deliverable1/Gia-Phong Tran - 03736578/1637537320/PartB/scope_0011.png ... Finished.
+Checking for activity on the LEDs...
+Selected LED1 as active, using it for further grading.
+  Passed.
+Trying to decode:
+0_
+NOTE: Unclassifiable high or low times are marked with ^ and _ respectively. If a letter could not be decoded, the dot-dash pattern is printed in paranthesis. Auto-detected dot length: 0.100000s
+Checking if a numeric value is sent...  Passed.
+Checking if single 0 is sent, expecting a value between 0 and 0...  Passed.
+Checking output after pressing Button1 once... recorded 3504 samples at 120.000077 SPS.
+Saving blinking pattern as Deliverable1/Gia-Phong Tran - 03736578/1637537320/PartB/scope_0012.png ... Finished.
+Checking for activity on the LEDs...
+Selected LED1 as active, using it for further grading.
+  Passed.
+Trying to decode:
+i can morse_
+NOTE: Unclassifiable high or low times are marked with ^ and _ respectively. If a letter could not be decoded, the dot-dash pattern is printed in paranthesis. Auto-detected dot length: 0.100000s
+Checking if the required string is transmitted exactly once...  Passed.
+Checking output after pressing Button2 again... recorded 2928 samples at 120.000077 SPS.
+Saving blinking pattern as Deliverable1/Gia-Phong Tran - 03736578/1637537320/PartB/scope_0013.png ... Finished.
+Checking for activity on the LEDs...
+Selected LED1 as active, using it for further grading.
+  Passed.
+Trying to decode:
+45134_
+NOTE: Unclassifiable high or low times are marked with ^ and _ respectively. If a letter could not be decoded, the dot-dash pattern is printed in paranthesis. Auto-detected dot length: 0.100000s
+Checking if a numeric value is sent...  Passed.
+Checking if time in ms between boot and last press of Button1 is sent, expecting a value between 45097 and 45597...  Passed.
+Checking output after pressing Button1 again... recorded 3504 samples at 120.000077 SPS.
+Saving blinking pattern as Deliverable1/Gia-Phong Tran - 03736578/1637537320/PartB/scope_0014.png ... Finished.
+Checking for activity on the LEDs...
+Selected LED1 as active, using it for further grading.
+  Passed.
+Trying to decode:
+i can morse_
+NOTE: Unclassifiable high or low times are marked with ^ and _ respectively. If a letter could not be decoded, the dot-dash pattern is printed in paranthesis. Auto-detected dot length: 0.100000s
+Checking if the required string is transmitted exactly once...  Passed.
+Checking output after pressing Button2 again... recorded 3264 samples at 120.000077 SPS.
+Saving blinking pattern as Deliverable1/Gia-Phong Tran - 03736578/1637537320/PartB/scope_0015.png ... Finished.
+Checking for activity on the LEDs...
+Selected LED1 as active, using it for further grading.
+  Passed.
+Trying to decode:
+61380_
+NOTE: Unclassifiable high or low times are marked with ^ and _ respectively. If a letter could not be decoded, the dot-dash pattern is printed in paranthesis. Auto-detected dot length: 0.100000s
+Checking if a numeric value is sent...  Passed.
+Checking if time in ms between last and second last press of Button1 is sent, expecting a value between 61129 and 61629...  Passed.
+Checking output after pressing Button1 again... recorded 3504 samples at 120.000077 SPS.
+Saving blinking pattern as Deliverable1/Gia-Phong Tran - 03736578/1637537320/PartB/scope_0016.png ... Finished.
+Checking for activity on the LEDs...
+Selected LED1 as active, using it for further grading.
+  Passed.
+Trying to decode:
+i can morse_
+NOTE: Unclassifiable high or low times are marked with ^ and _ respectively. If a letter could not be decoded, the dot-dash pattern is printed in paranthesis. Auto-detected dot length: 0.100000s
+Checking if the required string is transmitted exactly once...  Passed.
+Point summary:
+A correct LED blinks   0.5 out of   0.5
+A 10Hz speed           0.5 out of   0.5
+A 5s break             0.5 out of   0.5
+A any Morse letter     1.0 out of   1.0
+A whole string         1.0 out of   1.0
+A signal lengths       0.5 out of   0.5
+B silent after boot    0.5 out of   0.5
+B Button1 reaction     0.5 out of   0.5
+B Button1 output       0.5 out of   0.5
+B Button2 reaction     0.5 out of   0.5
+B numeric value        0.5 out of   0.5
+B 0 case               0.5 out of   0.5
+B 1 case               1.0 out of   1.0
+B 2 case               1.0 out of   1.0
+                     -----        -----
+Total                  9.0 out of   9.0

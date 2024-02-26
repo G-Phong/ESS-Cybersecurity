@@ -1,0 +1,118 @@
+### Grading of Deliverable4/Gia-Phong Tran - 03736578/1643301674/PartA started at 2022-01-27 18:02:16.133431 ### 
+
+Trying to flash Deliverable4/Gia-Phong Tran - 03736578/1643301674/PartA/build/main.hex ... successful.
+Setting easy parameters for first run. Waiting for RPi to boot...
+RPi booted, today's password has 8 characters.
+Connecting XMC keyboard.
+  Time      Attempts   Keystrokes   Correctly guessed     Correctly guessed  
+remaining              per second      characters       characters per second
+                       ( 10s avg)                           (   60s avg)     
+  29:59          0         0.00                   0                 0.00000
+  29:49         32         6.39                   0                 0.00000
+  29:39         75         8.59                   0                 0.00000
+  29:29        111         8.99                   1                 0.03222
+  29:19        146        10.49                   1                 0.02436
+  29:09        179        11.54                   2                 0.03996
+  28:59        208        11.59                   2                 0.03996
+  28:49        238        11.99                   2                 0.03996
+  28:39        265        12.14                   3                 0.03996
+  28:29        290        12.49                   3                 0.03996
+  28:19        315        12.49                   3                 0.01998
+  28:09        340        13.73                   4                 0.03996
+  27:59        362        13.19                   4                 0.03996
+  27:49        385        13.78                   4                 0.01998
+  27:39        407        13.19                   4                 0.01998
+  27:29        428        13.64                   5                 0.03996
+  27:19        448        13.98                   5                 0.01998
+  27:09        468        13.98                   5                 0.01998
+  26:59        488        13.98                   5                 0.01998
+  26:49        507        14.23                   6                 0.03996
+  26:39        525        14.38                   6                 0.01998
+  26:29        543        14.38                   6                 0.01998
+  26:19        561        14.38                   6                 0.01998
+  26:09        579        14.38                   6                 0.01998
+  25:59        596        14.43                   7                 0.01998
+  25:49        612        14.38                   7                 0.01998
+  25:39        629        15.28                   7                 0.01998
+  25:29        645        14.38                   7                 0.01998
+  25:19        661        14.38                   7                 0.01998
+  25:09        670         8.54                   8                 0.01998
+authenticator finished, granting 5s for creating file...
+Disconnecting XMC keyboard.
+Checking average typing speed (full point > 24.000, half point > 12.000): 12.692
+Checking number of correctly guessed characters (half point/char excluding first):  8
+Obtaining file list from $HOME:
+.
+..
+authenticator.log
+.ash_history
+.profile
+.ashrc
+.bashrc
+.local
+.X.d
+Expecting file named '03736578':  Failed.
+Setting hard parameters for second run. Waiting for RPi to boot...
+RPi booted, today's password has 13 characters.
+Connecting XMC keyboard.
+  Time      Attempts   Keystrokes   Correctly guessed     Correctly guessed  
+remaining              per second      characters       characters per second
+                       ( 10s avg)                           (   60s avg)     
+  29:59          0         0.00                   0                 0.00000
+  29:49         32         6.39                   0                 0.00000
+  29:39         75         8.59                   0                 0.00000
+  29:29        116        10.24                   1                 0.03222
+  29:19        157        12.29                   1                 0.02436
+  29:09        196        13.64                   2                 0.03996
+  28:59        235        15.58                   2                 0.03996
+  28:49        273        17.08                   3                 0.05994
+  28:39        310        18.48                   3                 0.03996
+  28:29        347        22.18                   5                 0.07992
+  28:19        383        23.37                   4                 0.03996
+  28:09        418        20.98                   4                 0.03996
+  27:59        453        22.73                   5                 0.03996
+  27:49        487        23.77                   5                 0.03996
+  27:39        520        24.72                   6                 0.01998
+  27:29        553        26.37                   6                 0.03996
+  27:19        586        26.37                   6                 0.03996
+  27:09        617        26.32                   7                 0.03996
+  26:59        649        28.77                   7                 0.03996
+  26:49        680        29.42                   8                 0.03996
+  26:39        711        30.97                   8                 0.03996
+  26:29        741        29.97                   8                 0.03996
+  26:19        771        31.47                   9                 0.03996
+  26:09        800        31.86                   9                 0.03996
+  25:59        830        32.96                   9                 0.01998
+  25:49        858        32.16                  10                 0.03996
+  25:39        887        34.76                  10                 0.03996
+  25:29        915        33.56                  10                 0.01998
+  25:19        943        34.96                  11                 0.03996
+  25:09        970        35.06                  11                 0.03996
+  24:59        997        35.06                  11                 0.01998
+  24:49       1024        36.41                  12                 0.03996
+  24:39       1051        37.76                  12                 0.03996
+  24:29       1069        26.07                  13                 0.03996
+authenticator finished, granting 5s for creating file...
+Disconnecting XMC keyboard.
+Checking average guessing speed within first 10 characters (full point > 0.060, half point > 0.030): 0.03980
+Checking number of correctly guessed characters (half point/char excluding first): 13
+Obtaining file list from $HOME:
+.
+..
+authenticator.log
+.ash_history
+.profile
+.ashrc
+.bashrc
+.local
+.X.d
+Expecting file named '03736578':  Failed.
+Point summary:
+A easy typing speed     0.5 out of   1.0
+A easy guessed chars    3.5 out of   3.5
+A easy file created     0.0 out of   0.5
+A hard guessing speed   0.5 out of   1.0
+A hard guessed chars    3.5 out of   3.5
+A hard file created     0.0 out of   0.5
+                      -----        -----
+Total                   8.0 out of  10.0
